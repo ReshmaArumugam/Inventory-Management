@@ -2,7 +2,6 @@
 $pname1	= $_POST["pname"];
 $pid1= $_POST["pid"];
 $pq1= $_POST["pq"];
-$pq2= $_POST["pq2"];
 $sname1= $_POST["sname"];
 
 $con = mysqli_connect('localhost' , 'root', '', 'inventory');
